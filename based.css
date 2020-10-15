@@ -5,18 +5,29 @@ body {
 #ghoul {
     opacity: 0.069;
     margin-top: 69px;
+    position: fixed;
+    top: 10px;
+    right: 25px;
+    width: 30%;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 42%;
-  }
 
   h1 {
       font-family: 'Roboto Mono', monospace;
       color: #df6cc9;
-      text-align: center;
+      text-align: left;
       opacity: 0.5;
   }
+
+  h2 {
+    font-family: 'Roboto Mono', monospace;
+    color: #df6cc9;
+    text-align: left;
+    opacity: 0.5;
+}
+
+#text {
+    font-family: 'Roboto Mono', monospace;
+      color: #df6cc9;
+      opacity: 0.5;
+}
