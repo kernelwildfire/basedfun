@@ -1,0 +1,22 @@
+body {
+    background-color: #121112;
+}
+
+#ghoul {
+    opacity: 0.069;
+    margin-top: 69px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+  }
+
+  h1 {
+      font-family: 'Roboto Mono', monospace;
+      color: #df6cc9;
+      text-align: center;
+      opacity: 0.5;
+  }
