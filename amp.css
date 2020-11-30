@@ -1,0 +1,70 @@
+body {
+    background-color: #121112;
+}
+
+#ropetext {
+    font-family: 'Roboto Mono', monospace;
+    color: #c9328f;
+    opacity: 0.69;
+}
+
+div {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 16px;
+    padding-right: 1px;
+}
+
+#ghoul {
+    opacity: 0.069;
+    margin-top: 42px;
+    margin-right: 42px;
+    position: fixed;
+    top: 10px;
+    right: 15px;
+    width: 42%;
+}
+
+#slow {
+    opacity: 0.69;
+    max-width: 69px;
+}
+
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    color:  #c9328f;
+    text-align: left;
+    opacity: 0.69;
+  }
+
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    color:  #c9328f;
+    text-align: left;
+    opacity: 0.69;
+}
+
+#text {
+    font-family: 'Roboto Mono', monospace;
+    color:  #c9328f;
+    opacity: 0.69;
+}
+
+a:link {
+    color:  #c9328f;
+    opacity: 0.93;
+}
+
+a:visited {
+    color: goldenrod;
+}
+
+a:hover {
+    color:#fefefe;
+    opacity: 0.42;
+}
+
+a:active {
+    color: #fefefe;
+}
