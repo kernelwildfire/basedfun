@@ -1,10 +1,10 @@
 {
   "name": "Based Money",
-  "timestamp": "2020-08-27T10:52:29.669Z",
+  "timestamp": "2020-12-01T18:23:36+00:00",
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 1
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/747c987597a6e8e02c86099d8f55a88eb16830d6/images/based-money-logo.svg",
@@ -19,7 +19,7 @@
   ],
   "tokens": [
     {
-      "name": "BASED",
+      "name": "$BASED",
       "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
       "symbol": "BASED",
       "decimals": 18,
@@ -67,6 +67,14 @@
       "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/sushi.png"
     },
     {
+      "name": "$ROPE",
+      "address": "0x9d47894f8becb68b9cf3428d256311affe8b068b",
+      "symbol": "ROPE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/sushi.png"
+    },
+    {
       "name": "SnowSwap",
       "address": "0xfe9A29aB92522D14Fc65880d817214261D8479AE",
       "symbol": "SNOW",
@@ -80,7 +88,7 @@
       "symbol": "WAR",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/yieldwars-logo-sm.png"
     },
     {
       "name": "Amp",
@@ -88,7 +96,7 @@
       "symbol": "AMP",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/amp_32.png"
     },
     {
       "name": "yearn.finance",
