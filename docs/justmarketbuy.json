@@ -20,7 +20,7 @@
   ],
   "tokens": [
     {
-      "name": "$BASED",
+      "name": "BASED",
       "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
       "symbol": "BASED",
       "decimals": 18,
@@ -68,7 +68,7 @@
       "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/sushi.png"
     },
     {
-      "name": "$ROPE",
+      "name": "ROPE",
       "address": "0x9d47894f8becb68b9cf3428d256311affe8b068b",
       "symbol": "ROPE",
       "decimals": 18,
