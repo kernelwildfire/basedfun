@@ -24,7 +24,7 @@
       "symbol": "BASED",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/747c987597a6e8e02c86099d8f55a88eb16830d6/images/based-money-logo.svg"
     },
     {
       "name": "Moonbase",
@@ -32,7 +32,7 @@
       "symbol": "mbBASED",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://based.money/wp-content/uploads/2020/08/based-money-logo.svg"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/mbBASED.png"
     },
     {
       "name": "Curve.fi DAI/USDC/USDT/sUSD",
@@ -40,7 +40,7 @@
       "symbol": "crvPlain3andSUSD",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://etherscan.io/token/images/Curvefi_sCrv_32.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/Curvefi_sCrv_32.png"
     },
     {
       "name": "Synth sUSD",
@@ -48,7 +48,7 @@
       "symbol": "sUSD",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/master/synths/sUSD.svg"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/747c987597a6e8e02c86099d8f55a88eb16830d6/images/sUSD.svg"
     },
     {
       "name": "Synthetix Network Token",
@@ -56,7 +56,7 @@
       "symbol": "SNX",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/Synthetixio/synthetix-assets/master/snx/SNX_blue.svg"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/747c987597a6e8e02c86099d8f55a88eb16830d6/images/SNX.svg"
     },
     {
       "name": "SushiToken",
@@ -64,7 +64,7 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/sushi.png"
     },
     {
       "name": "SnowSwap",
@@ -72,7 +72,7 @@
       "symbol": "SNOW",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/snowswap_32.png"
     },
     {
       "name": "yieldwars.com",
@@ -96,7 +96,7 @@
       "symbol": "YFI",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/nimrodwildfire/route420/master/images/sBASED.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/yfi.png"
     }
   ]
 }
