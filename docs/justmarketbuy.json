@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/747c987597a6e8e02c86099d8f55a88eb16830d6/images/based-money-logo.svg",
@@ -15,7 +15,8 @@
     "just market buy",
     "unstable coin",
     "route420",
-    "69"
+    "69",
+    "Ray"
   ],
   "tokens": [
     {
@@ -72,7 +73,7 @@
       "symbol": "ROPE",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/sushi.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/rope_32.png"
     },
     {
       "name": "SnowSwap",
