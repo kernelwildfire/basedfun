@@ -19,6 +19,12 @@ div {
     opacity: 0.93;
 }
 
+footer {
+    padding-left: 42px;
+    padding-top: 42px;
+    padding-bottom: 20px;
+}
+
 a:link {
     color: #df6cc9;
     opacity: 0.93;
