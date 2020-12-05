@@ -1,10 +1,10 @@
 {
   "name": "Based Money",
-  "timestamp": "2020-12-05T17:09:57+00:00",
+  "timestamp": "2020-12-05T17:21:57+00:00",
   "version": {
     "major": 2,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/747c987597a6e8e02c86099d8f55a88eb16830d6/images/based-money-logo.svg",
@@ -109,7 +109,7 @@
     },
     {
       "name": "RURAL",
-      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "address": "0xf56ab64bd31db771fd1f0e92164b16aebb8d5d68",
       "symbol": "RURAL",
       "decimals": 18,
       "chainId": 1,
