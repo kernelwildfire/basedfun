@@ -1,53 +1,39 @@
 body {
-    background-color: #121112;
+    background-color: #0e0f23;
 }
 
 div {
-    padding-left: 20px;
+    padding-left: 42px;
     padding-top: 10px;
     padding-bottom: 16px;
     padding-right: 1px;
 }
 
-#ghoul {
+#roll {
     opacity: 0.069;
     margin-top: 42px;
-    margin-right: 42px;
+    margin-right: 69px;
     position: fixed;
     top: 10px;
     right: 15px;
     width: 42%;
 }
 
-#slow {
-    opacity: 0.69;
-    max-width: 69px;
+#sushi {
+    font-family: 'Roboto Mono', monospace;
+    color: #fa52a0;
+    text-align: left;
+    opacity: 0.93;
 }
 
-
-h1 {
-    font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
-    text-align: left;
-    opacity: 0.69;
-  }
-
-h2 {
-    font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
-    text-align: left;
-    opacity: 0.69;
-}
-
-#text {
-    font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
-    opacity: 0.69;
+footer {
+    padding-left: 42px;
+    padding-top: 42px;
+    padding-bottom: 20px;
 }
 
 a:link {
-    color: #df6cc9;
-    opacity: 0.93;
+    color: #718ed4;
 }
 
 a:visited {
@@ -55,10 +41,11 @@ a:visited {
 }
 
 a:hover {
-    color: #df6cc9;
+    color: #aa78bf;
     opacity: 0.42;
 }
 
 a:active {
-    color: #df6cc9;
+    color: #718ed4;
+    opacity: 0.93;
 }
