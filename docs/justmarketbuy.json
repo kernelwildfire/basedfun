@@ -106,6 +106,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/yfi.png"
+    },
+    {
+      "name": "RURAL",
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "symbol": "RURAL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/ruraltokenlogo.png"
     }
   ]
 }
