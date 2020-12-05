@@ -1,64 +1,51 @@
 body {
-    background-color: #121112;
+    background-color: #030614;
 }
 
 div {
-    padding-left: 20px;
+    padding-left: 42px;
     padding-top: 10px;
     padding-bottom: 16px;
     padding-right: 1px;
 }
 
-#ghoul {
-    opacity: 0.069;
+#yw {
+    opacity: 0.69;
     margin-top: 42px;
-    margin-right: 42px;
+    margin-right: 93px;
     position: fixed;
     top: 10px;
     right: 15px;
     width: 42%;
 }
 
-#slow {
-    opacity: 0.69;
-    max-width: 69px;
-}
-
-
-h1 {
+#war {
     font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
+    color: #c31713;
     text-align: left;
-    opacity: 0.69;
-  }
-
-h2 {
-    font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
-    text-align: left;
-    opacity: 0.69;
-}
-
-#text {
-    font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
-    opacity: 0.69;
-}
-
-a:link {
-    color: #df6cc9;
     opacity: 0.93;
 }
 
+a:link {
+    color: #3053c9;
+}
+
 a:visited {
-    color: #ffeeff;
+    color: #fefeff;
 }
 
 a:hover {
-    color: #df6cc9;
+    color: #a41714;
     opacity: 0.42;
 }
 
 a:active {
-    color: #df6cc9;
+    color: #3053c9;
+    opacity: 0.93;
+}
+
+footer {
+    padding-left: 42px;
+    padding-top: 42px;
+    padding-bottom: 20px;
 }
