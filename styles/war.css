@@ -45,11 +45,6 @@ h2 {
     opacity: 0.69;
 }
 
-a {
-    target-name: new;
-    target-new: tab;
-}
-
 a:link {
     color: #df6cc9;
     opacity: 0.93;

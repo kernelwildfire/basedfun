@@ -1,18 +1,18 @@
 body {
-    background-color: #121112;
+    background-color: #3b2517;
 }
 
 div {
-    padding-left: 20px;
+    padding-left: 42px;
     padding-top: 10px;
     padding-bottom: 16px;
     padding-right: 1px;
 }
 
 #ghoul {
-    opacity: 0.069;
+    opacity: 0.69;
     margin-top: 42px;
-    margin-right: 42px;
+    margin-right: 69px;
     position: fixed;
     top: 10px;
     right: 15px;
@@ -27,27 +27,25 @@ div {
 
 h1 {
     font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
     text-align: left;
     opacity: 0.69;
   }
 
 h2 {
     font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
     text-align: left;
     opacity: 0.69;
 }
 
-#text {
+#ruraltext {
     font-family: 'Roboto Mono', monospace;
-    color: #df6cc9;
+    color: #f3bf37;
     opacity: 0.69;
 }
 
-a {
-    target-name: new;
-    target-new: tab;
+footer {
+    padding-left: 42px;
+    padding-top: 42px;
 }
 
 a:link {
