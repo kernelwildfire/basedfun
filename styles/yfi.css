@@ -1,0 +1,45 @@
+body, html {
+    height: 100%;
+    background-color: #001b38;
+  }
+  
+.sun {
+    background-image: url("../images/basedsunrising.png");
+  
+    height: 100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+div {
+    padding-top: 6.9px;
+}
+
+#yfi {
+    font-family: 'Roboto Mono', monospace;
+    color: #00a4c2;
+    text-align: center;
+    opacity: 0.93;
+    text-shadow: 1px 2px #edadb3;
+}
+
+a:link {
+    color: #fefeff;
+}
+
+a:visited {
+    color: #fefeff;
+    opacity: 0.69;
+}
+
+a:hover {
+    color: #fefeff;
+    opacity: 0.42;
+}
+
+a:active {
+    color: #00a4c2;
+    opacity: 0.93;
+}
