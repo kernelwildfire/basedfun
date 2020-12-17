@@ -19,6 +19,23 @@ div {
     width: 42%;
 }
 
+#moon {
+    opacity: 0.69;
+    margin-top: 42px;
+    margin-right: 42px;
+    position: fixed;
+    top: 10px;
+    right: 15px;
+    width: 42%;
+}
+
+#moontext {
+    padding-right: 50%;
+    font-family: 'Roboto Mono', monospace;
+    color: #df6cc9;
+    opacity: 0.69;
+}
+
 #slow {
     opacity: 0.69;
     max-width: 69px;
