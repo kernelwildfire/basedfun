@@ -100,12 +100,20 @@
       "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/amp_32.png"
     },
     {
-      "name": "yearn.finance",
-      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-      "symbol": "YFI",
+      "name": "NodeRunners",
+      "address": "0x739763a258640919981f9ba610ae65492455be53",
+      "symbol": "NDR",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/yfi.png"
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/noderunner.png"
+    },
+    {
+      "name": "Coin Artist",
+      "address": "0x87b008e57f640d94ee44fd893f0323af933f9195",
+      "symbol": "COIN",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/coinlogo.png"
     },
     {
       "name": "RURAL",
@@ -114,6 +122,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/ruraltokenlogo.png"
+    },
+    {
+      "name": "yearn.finance",
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/basedr0d/basedfun/master/images/yfi.png"
     }
   ]
 }

@@ -41,6 +41,23 @@ div {
     max-width: 69px;
 }
 
+#coinlogo {
+    opacity: 0.069;
+    margin-top: 42px;
+    margin-right: 69px;
+    position: fixed;
+    top: 10px;
+    right: 15px;
+    width: 42%;
+}
+
+#coin {
+    font-family: 'Roboto Mono', monospace;
+    color: #fa52a0;
+    text-align: left;
+    opacity: 0.93;
+}
+
 footer {
     padding-left: 42px;
     padding-top: 42px;
