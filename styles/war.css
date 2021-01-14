@@ -1,51 +1,28 @@
-body {
-    background-color: #030614;
-}
+body, html {
+    height: 100%;
+    background-color: #001b38;
+  }
 
-div {
-    padding-left: 42px;
-    padding-top: 10px;
-    padding-bottom: 16px;
-    padding-right: 1px;
-}
+.death {
+    background-image: url("../images/battlefieldaftermath.jpeg");
+  
+    height: 100%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
-#yw {
-    opacity: 0.69;
-    margin-top: 42px;
-    margin-right: 93px;
-    position: fixed;
-    top: 10px;
-    right: 15px;
-    width: 42%;
-}
+.war {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-#war {
-    font-family: 'Roboto Mono', monospace;
-    color: #c31713;
-    text-align: left;
-    opacity: 0.93;
-}
-
-a:link {
-    color: #3053c9;
-}
-
-a:visited {
-    color: #fefeff;
-}
-
-a:hover {
-    color: #a41714;
-    opacity: 0.42;
-}
-
-a:active {
-    color: #3053c9;
-    opacity: 0.93;
-}
-
-footer {
-    padding-left: 42px;
-    padding-top: 42px;
-    padding-bottom: 20px;
-}
+audio { 
+    width: 600px; 
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+    border-radius: 90px;
+    transform: scale(1.05);
+    margin-top: 5%;
+  }
