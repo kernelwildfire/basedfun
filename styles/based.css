@@ -68,6 +68,27 @@ div {
     opacity: 0.93;
 }
 
+#ythoback {
+    background-color: #00415c;
+}
+
+#ytho {
+    font-family: 'Roboto Mono', monospace;
+    color: #ff67f0;
+    text-align: left;
+    opacity: 0.93;
+}
+
+#pope {
+    opacity: 0.93;
+    margin-top: 42px;
+    margin-right: 69px;
+    position: fixed;
+    top: 10px;
+    right: 15px;
+    width: 42%;
+}
+
 footer {
     padding-left: 42px;
     padding-top: 42px;
